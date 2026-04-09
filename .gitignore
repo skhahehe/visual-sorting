@@ -8,3 +8,6 @@
 
 # IDE settings
 .vscode/
+
+# macOS App bundles
+SortVisualizer.app/
