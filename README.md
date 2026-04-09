@@ -2,6 +2,8 @@
 
 A high-performance, interactive educational tool built with C++ and SFML 3.0 to visualize how different sorting algorithms operate in real-time. This project was developed as a Data Structures & Algorithms (DSA) End Term Project.
 
+![Visual Sorting Demo](demo.mov)
+
 ##  Features
 
 ### 5 Sorting Algorithms:
