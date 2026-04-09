@@ -1,0 +1,11 @@
+# Build artifacts
+sort_visualizer
+SortVisualizer.app/
+*.o
+*.out
+
+# macOS system files
+.DS_Store
+
+# IDE settings
+.vscode/
